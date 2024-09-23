@@ -1,21 +1,67 @@
-
 *{
-    padding: 0;
     margin: 0;
+    padding: 0;
 }
-body{
-    /* poppins-thin {
-        font-family: "Poppins", sans-serif;
-        font-weight: 900;
-        
-      } */
-}
-
-h1{
+.continer{
     
-    font-weight: 300;
-    font-family: "popins",sans-serif;
+   
+.header-top{
+  
+    background-image: url("/image/top-banner.png");
+   background-repeat: no-repeat;
+  
 }
-.header-name{
-    color:#ff820d;
+.topber{
+   
+    display: flex;
+    width: 1400px;
+    margin: auto;
+}
+    
+}
+.about{
+    width: 40%;
+    /* display: flex;
+    align-items: center; */
+    /* align-self: center; */
+
+}
+.wel{
+    font-size: 50px;
+    line-height: 90px;
+}
+.ok{
+    font-size: 50px;
+    line-height: 90px;
+}
+.about-1{
+    color:#ef7814 ;
+    
+}
+.heading4{
+    font-size: 22px;
+    line-height: 45px;
+}
+.abp{
+    font-size: 18px;
+    line-height: 25px;
+}
+.our-fb{
+    text-decoration: none;
+    background: #ef7814;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    /* margin-top: 40px; */
+    line-height: 90px;
+}
+.image{
+    width: 60%;
+  
+}
+.img1{
+    max-width: 100%;
+    margin-top: -40px;
+   
+    
 }
